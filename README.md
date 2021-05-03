@@ -20,14 +20,14 @@ As the we explored the data, we came across many roadblocks. The data that was r
 
 The findings 
 1. What is the relationship between the number of covid test administered and the number of confirmed cases/deaths?
-      There was significantly more test administered than confirmed cases and deaths, especially during the last quarter of 2020. Then we see a dramatic drop in the number of tests administered in the first quarter of 2021
+      There was significantly more test administered than confirmed cases and deaths, especially during the last quarter of 2020. Then we see a dramatic drop in the number of tests administered in the first quarter of 20
 2. what is the relationship between the initial number of unemployment case and the number of tests?
       As the pandemic began, we saw a large amount on initial unemployment case, however there we had far fewer test administered. Then we see a swap as the number of tests increased the number of initial unemployment claims decreased.
+      
 3. What is the relationship between the number of hospitalizations and the continued unemployment claims?
       Throughout the pandemic there has been steady number of hospitalizations. However, we can see a spike in the months that had fewer continued cases 
 4. What is the relationship between the number of initial unemployment claims, the continued claims, and the unemployment rate? 
       The initial claims and continued claims have pretty much mirrored each other, causing the unemployment rate to do same.
-
 
 
 
